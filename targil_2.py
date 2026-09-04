@@ -6,3 +6,4 @@ except TypeError as e:
     print('cannot change a tuple:',e )
 
 print(t)
+print('goodbye')
